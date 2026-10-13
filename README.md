@@ -32,6 +32,16 @@
 | 电池 | 56 Wh |
 | SMBIOS 机型 | MacBookPro16,3 |
 
+## 实机截图
+
+**桌面（macOS Sequoia 15.6，Notice：菜单栏原生显示电池/Wi-Fi/蓝牙）**：
+
+![桌面](docs/screenshots/desktop.jpg)
+
+**启动台（常用 App 均正常运行）**：
+
+![启动台](docs/screenshots/launchpad.jpg)
+
 ---
 
 ## 目录结构
