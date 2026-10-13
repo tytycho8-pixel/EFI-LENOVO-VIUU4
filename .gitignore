@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+.AppleDouble
+._*
+.Spotlight-V100
+.Trashes
+
+# editors
+*.swp
+*~
